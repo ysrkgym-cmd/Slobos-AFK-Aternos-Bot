@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Group99Server.aternos.me:24357",
+    "ip": "Group99Server.aternos.me",
     "port": 24357,
     "version": "1.21.11",
     "try-creative": false
